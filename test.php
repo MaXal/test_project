@@ -6,5 +6,5 @@
  * Time: 17:16
  */
 
-echo "a";
+echo "b";
 echo "a";
