@@ -8,3 +8,4 @@
 
 echo "b";
 echo "d";
+echo "g";
